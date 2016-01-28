@@ -1,14 +1,14 @@
-# Course Outline Quiz
+# Reviewing and Updating Curriculum Quiz
 
 ???
 
 # Course Outline Quiz
 
-?: What is the typical flow of lessons in a unit? 
+?: After you’ve written the first draft of your lesson, you 
 
-(X) have a progression of readmes with each followed one by a lab, and more difficult labs at the very end of the unit
-( ) have a progression of labs with each one followed by a readme that explains the concept 
-( ) have all your readmes first and then all your labs following that
+( ) mark it as “Complete” in the spreadsheet
+(X) make a pull request to master
+( ) make a pull request to master and merge it immediately afterwards
 
 
 ?: Which of the following is an example of a strong learning objective?
@@ -18,36 +18,23 @@
 (X) render multiple routes with multiple views
 
 
-?: Which of the following is NOT an example of a strong learning objective?
 
-( ) use the path method to filter HTTP requests
-(X) know about paths in an HTTP request
-( ) describe GET parameters and how they allow web applications to handle user queries
+?: When giving feedback on lessons (check all that apply):  
 
+[ ] point out only the problem areas to save time 
+[X] point out things that work really well too 
+[ ] start adding comments right away 
+[X] read the lesson in its entirety first before leaving any comments
 
-?: The contributing file gives guidelines for students on how to 
+?: When you have feedback or comments as you’re reviewing
 
-( ) solve a lab
-(X) raise an issue
-( ) edit the curriculum
+( ) raise an issue on the repository and add your comments there 
+(X) comment in-line in the pull request
+( ) send an email 
 
-?: Learning objectives should be (check all that apply)
-
-[X] measurable
-[ ] abstract
-[X] observable
-[X] have specific conditions or criteria
-
-?: What is a good range of learning objectives to have in a lesson?
-
-( ) 1-3 
-(X) 3-8
-( ) 7-10
-
-?: Learning objectives help your lesson be 
-
-(X) student-centered
-( ) content-centered
+?: When you’re reviewing the main body of a Readme (check all that apply): 
+[X]  make sure “big words” are explained, preferably before the terms are even used
+[X] content-centered
 
 ?: What’s a good verb to start with if your learning objective requires students to create something (check all that apply):
 
