@@ -56,6 +56,4 @@
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/course-outline-quiz'>Course Outline Quiz</a> on Learn.co and start learning to code for free.</p>
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/reviewing-and-updating-curriculum-quiz'>Reviewing and Updating Curriculum Quiz</a> on Learn.co and start learning to code for free.</p>
